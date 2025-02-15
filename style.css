@@ -1,0 +1,26 @@
+#controls {
+  border: 0.3em #9adbc6 solid;
+  background-color: #063627;
+  position: absolute;
+  width: 80vw;
+  height: 80vh;
+  top: 5vh;
+  right: 10vw;
+  padding: 1%;
+  visibility: hidden;
+}
+#controls b {
+  font-size: 250%;
+  margin: 1%;
+}
+#controls p {
+  font-size: 150%;
+  margin: 1%;
+}
+#close {
+  background-color: #043022;
+  position: absolute;
+  top: 0;
+  right: 1%;
+  padding: 0.5%;
+}
