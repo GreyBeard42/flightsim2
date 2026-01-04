@@ -1,0 +1,16 @@
+{
+  "title": "FPV Flight Sim",
+  "desc": "A (bad) first-person perspective flight simulator made in p5.js",
+
+  "status": "archived",
+  "version": "v1.1",
+
+  "date": "09/21/2024",
+
+  "tags": [
+    "javascript",
+    "p5.js",
+    "game",
+    "aviation"
+  ]
+}
